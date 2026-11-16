@@ -10,7 +10,7 @@ I'll occasionally revisit the project to experiment with new features, improve t
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript (pending)
 
 ## Status
 
