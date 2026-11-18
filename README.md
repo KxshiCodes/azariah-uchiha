@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md)
+
 # Fictional Character Webpage - Azariah Uchiha
 
 A small Naruto-inspired character webpage featuring my original character, Azariah Uchiha.
